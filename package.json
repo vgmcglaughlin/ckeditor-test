@@ -1,0 +1,17 @@
+{
+  "name": "ckeditor-test",
+  "version": "0.0.0",
+  "description": "Test CKEditor deployment",
+  "main": "web-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vgmcglaughlin/ckeditor-test.git"
+  },
+  "author": "Vic McGlaughlin",
+  "license": "LGPL",
+  "gitHead": "c49d0b15b0c3bd0604e84a73d8b5444931982ca1",
+  "readmeFilename": "README.md"
+}
